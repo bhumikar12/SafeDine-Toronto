@@ -1,1 +1,2 @@
 # SafeDine-Toronto
+This project focuses on analyzing robbery incidents in Toronto to assess the safety of McDonald's restaurant locations. Utilizing data from the Toronto Police Service robbery open dataset and neighborhood boundary data from Open Data Toronto, the analysis aims to identify high-risk zones for robbery incidents and provide insights to enhance safety measures. Through statistical analysis, spatial mapping, and predictive modeling, the project aims to empower stakeholders to make informed decisions regarding crime prevention strategies and resource allocation.
